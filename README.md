@@ -23,7 +23,7 @@ npm start
 
 **Technologies**:
 
-<i style="font-size:24px" class="fab fa-react"></i> React.js
+:atom_symbol: React.js
 <i style="font-size:24px" class="fab fa-js"></i> JavaScript
 <i style="font-size:24px" class="fab fa-html5"></i> HTML
 <i style="font-size:24px" class="fab fa-css3"></i> CSS
