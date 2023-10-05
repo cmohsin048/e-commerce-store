@@ -1,0 +1,17 @@
+/* fonts.css
+@font-face {
+  font-family: 'Nunito';
+  src: url('./Fonts/Nunito-Regular.ttf') format('truetype');
+  /* Add more src lines for other font formats if available */
+  /* For example, for WOFF format: */
+  /* src: url('./fonts/Nunito-Regular.woff') format('woff'); */
+ 
+
+/* Optionally, define font weights and styles */
+@font-face {
+  font-family: 'Nunito';
+  /* font-weight: 600; Semi-bold */
+  src: url('./Fonts/static/Nunito-Regular.ttf') format('truetype');
+}
+
+/* Add more font-face rules for other font weights or styles if needed */
