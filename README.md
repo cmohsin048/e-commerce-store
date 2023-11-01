@@ -10,7 +10,7 @@ A responsive online electronic store built using React.js, JavaScript, HTML, and
 :rocket: JavaScript
 &#119964; HTML
 &#119987; CSS
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css)](https://skillicons.dev)
 
 **Navigate to the project directory:**
 cd online-electronic-store
