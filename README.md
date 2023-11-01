@@ -7,7 +7,7 @@ A responsive online electronic store built using React.js, JavaScript, HTML, and
 **Technologies**:
 
 :atom_symbol: React.js
-:javascript: JavaScript
+&#120013; JavaScript
 :html5: HTML
 :css3: CSS
 
